@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.MeetingSchedulerTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-06-10T04:42:30" hostname="MBP-Ronaldo.box" time="0.056">
+  <properties/>
+  <testcase name="testRoomAvailable()" classname="com.company.MeetingSchedulerTest" time="0.044"/>
+  <testcase name="testAddFloorInformation()" classname="com.company.MeetingSchedulerTest" time="0.001"/>
+  <testcase name="testAddBuildInformation()" classname="com.company.MeetingSchedulerTest" time="0.004"/>
+  <testcase name="testAddRoomInTheFloor()" classname="com.company.MeetingSchedulerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
