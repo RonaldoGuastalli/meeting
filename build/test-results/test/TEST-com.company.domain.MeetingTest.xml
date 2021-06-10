@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.company.domain.MeetingTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-06-10T04:42:30" hostname="MBP-Ronaldo.box" time="0.009">
+  <properties/>
+  <testcase name="formatDate()" classname="com.company.domain.MeetingTest" time="0.004"/>
+  <testcase name="formatDateBeforeToday()" classname="com.company.domain.MeetingTest" time="0.002"/>
+  <testcase name="formatDateOK()" classname="com.company.domain.MeetingTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
